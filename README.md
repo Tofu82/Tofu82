@@ -12,9 +12,9 @@
 - Java / 10%
 
 ## Projects:
-- [Moonbot](Tofu82/moonbot) / An open-source alternative to [Rolimons' official bot](https://www.rolimons.com/discordbots)
-- [Small projects](Tofu82/smallprojects) / Various beginner python projects
-- [Rolimons.py](Tofu82/rolimons.py) / A fork of walker's original rolimons.py, used for fixing bugs.
+- [Moonbot](https://github.com/Tofu82/moonbot) / An open-source alternative to [Rolimons' official bot](https://www.rolimons.com/discordbots)
+- [Small projects](https://github.com/Tofu82/smallprojects) / Various beginner python projects
+- [Rolimons.py](https://github.com/Tofu82/rolimons.py) / A fork of walker's original rolimons.py, used for fixing bugs.
 
 ## Where you can find me:
 - Discord / tofu420_
